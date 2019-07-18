@@ -22,6 +22,8 @@ Demo-1.0使用的本地elasticsearch版本为[elasticsearch-6.2.4-MacOS](https:/
 
 MacOS多版本JDK切换方法[参考阅读](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html#CHDBADCG)
 
+elasticsearch-6.2[官方文档](https://www.elastic.co/guide/en/elasticsearch/reference/6.2/index.html)
+
 ### Demo启动步骤(MacOS)
 
 - IDEA打开`Spring-Boot-Elasticsearch-Demo-1.0`项目
