@@ -18,7 +18,9 @@ None of the configured nodes are available:[{#transport#-1}
 |          2.0.x               |     2.2.0      |
 |          1.3.x               |     1.5.2      |
 
-Demo-1.0使用的本地elasticsearch版本为[elasticsearch-6.2.4-MacOS](https://www.elastic.co/downloads/past-releases/elasticsearch-6-2-4)
+Demo-1.0使用的本地elasticsearch版本为[elasticsearch-6.2.4-MacOS](https://www.elastic.co/downloads/past-releases/elasticsearch-6-2-4)与[JDK1.8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
+MacOS多版本JDK切换方法[参考阅读](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html#CHDBADCG)
 
 ### Demo启动步骤(MacOS)
 
