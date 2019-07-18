@@ -32,7 +32,7 @@ $ cd elasticsearch-6.2.4/bin
 $ elasticsearch
 ```
 - IDEA运行DemoApplication
-- 谷歌浏览器输入:localhost:9200 回车
+- 谷歌浏览器输入:`localhost:9200` 回车
 
 ```json
 {
@@ -52,8 +52,8 @@ $ elasticsearch
 }
 ```
 
-- 谷歌浏览器输入:localhost8080/save 回车
-- 谷歌浏览器输入:localhost8080/book/1 回车
+- 谷歌浏览器输入:`localhost8080/save` 回车
+- 谷歌浏览器输入:`localhost8080/book/1` 回车
 
 ```json
 {
